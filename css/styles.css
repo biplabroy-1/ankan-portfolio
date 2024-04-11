@@ -3994,8 +3994,8 @@ td:last-child {
  *
  * ------------------------------------------------------------------- */
 .s-expertise {
-  padding-top: var(--vspace-6);
-  padding-bottom: var(--vspace-5);
+  padding-top: var(--vspace-4);
+  padding-bottom: var(--vspace-4);
 }
 
 .s-expertise__content-main {
@@ -4701,10 +4701,3 @@ td:last-child {
 .contact-list li {
   padding-left: 0;
 }
-
-
-
-
-
-
-
